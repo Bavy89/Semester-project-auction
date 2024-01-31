@@ -11,7 +11,7 @@ export function renderProfile(profile) {
   container.innerHTML = `<div class="mt-5 d-flex align-items-center justify-content-center flex-column">
   <p class="logged-in-user text-primary text-center"></p>
     <img class="avatar d-block"
-    src="" onerror="this.onerror=null;this.src='https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png'"
+    src="" onerror="this.onerror=null;this.src='https://cdn.pixabay.com/photo/2016/03/31/17/33/avatar-1293744_1280.png'"
     alt="user"/>
     <a class="change-avatar d-block" data-bs-toggle="modal"
     data-bs-target="#avatarModal">Change avatar</a>

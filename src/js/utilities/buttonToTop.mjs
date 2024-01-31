@@ -11,7 +11,7 @@ export function scrollToTop() {
   };
 
   /**
-   * Toggles the visibility of the "back to top" button based on the user's scroll position.
+   * Toggles the visibility of the "back to top" button based on scroll position.
    * @function scrollFunction
    * @returns {void}
    */
