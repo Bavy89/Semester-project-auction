@@ -2,6 +2,9 @@
 
 Semester project auction website where you can register, log in and make a bid on something you like! 
 
+[Image preview](https://github.com/username/my-project)
+
+
 ## Description
 
 This is my latest  project for my class, this time the assignmemt was to create auction website
