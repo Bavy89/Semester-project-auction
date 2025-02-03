@@ -4,7 +4,7 @@ Semester project auction website where you can register, log in and make a bid o
 
 ![image_url](https://raw.githubusercontent.com/Bavy89/Semester-project-auction/refs/heads/main/Images/Auction%20website.PNG)
 
-[Preview Site](https://bave-auction.netlify.app))
+[Preview Site](https://bave-auction.netlify.app)
 
 
 
