@@ -2,7 +2,7 @@
 
 Semester project auction website where you can register, log in and make a bid on something you like! 
 
-![website preview]([image_url](https://raw.githubusercontent.com/Bavy89/Semester-project-auction/refs/heads/main/Images/Auction%20website.PNG))
+![image_url](https://raw.githubusercontent.com/Bavy89/Semester-project-auction/refs/heads/main/Images/Auction%20website.PNG)]
 
 
 ## Description
